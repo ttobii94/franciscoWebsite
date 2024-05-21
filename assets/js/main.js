@@ -27,7 +27,7 @@
 				$body.removeClass('is-preload');
 			}, 100);
 		});
-
+	
 	// Touch mode.
 		if (browser.mobile)
 			$body.addClass('is-touch');
